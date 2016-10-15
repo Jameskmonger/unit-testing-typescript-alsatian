@@ -1,0 +1,31 @@
+{
+  "name": "unit-testing-typescript-alsatian",
+  "version": "1.0.0",
+  "description": "Example code for \"Unit testing TypeScript with Alsatian\"",
+  "main": "",
+  "scripts": {
+    "test": "alsatian \"./test/*.test.js\""
+  },
+  "keywords": [
+    "testing",
+    "unit",
+    "test",
+    "tdd",
+    "example",
+    "blog"
+  ],
+  "author": "James Monger",
+  "license": "MIT",
+  "devDependencies": {
+    "alsatian": "^1.0.0-alpha.17",
+    "typescript": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jameskmonger/jameskmonger.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jameskmonger/jameskmonger.github.io/issues"
+  },
+  "homepage": "https://github.com/Jameskmonger/jameskmonger.github.io#readme",
+}
